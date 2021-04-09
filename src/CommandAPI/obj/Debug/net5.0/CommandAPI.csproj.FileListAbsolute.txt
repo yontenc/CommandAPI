@@ -21,3 +21,13 @@ D:\Professional\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.dl
 D:\Professional\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.dll
 D:\Professional\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.pdb
 D:\Professional\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.genruntimeconfig.cache
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Professional\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
