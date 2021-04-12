@@ -115,3 +115,8 @@ D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.dll
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Castle.Core.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Moq.dll
