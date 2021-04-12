@@ -113,3 +113,5 @@ D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Micros
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.dll
+D:\Professional\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
