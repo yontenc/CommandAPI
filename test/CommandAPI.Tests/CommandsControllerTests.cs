@@ -121,21 +121,21 @@ var result = controller.GetCommandById(1);
 Assert.IsType<OkObjectResult>(result.Result);
 }
 
-[Fact]
-public void GetCommandByID_ReturnsCorrectType__WhenValidIDProvided()
-{
-//Arrange
-mockRepo.Setup(repo =>
-repo.GetCommandById(1)).Returns(new Command { Id = 1,
-HowTo = "mock",
-Platform = "Mock",
-CommandLine = "Mock" });
-var controller = new CommandsController(mockRepo.Object, mapper);
-//Act
-var result = controller.GetCommandById(1);
-//Assert
-Assert.IsType<ActionResult<CommandReadDto>>(result);
-}
+// [Fact]
+// public void GetCommandByID_ReturnsCorrectType__WhenValidIDProvided()
+// {
+// //Arrange
+// mockRepo.Setup(repo =>
+// repo.GetCommandById(1)).Returns(new Command { Id = 1,
+// HowTo = "mock",
+// Platform = "Mock",
+// CommandLine = "Mock" });
+// var controller = new CommandsController(mockRepo.Object, mapper);
+// //Act
+// var result = controller.GetCommandById(1);
+// //Assert
+// Assert.IsType<ActionResult<CommandReadDto>>(result);
+// }
 //created method test cases
 [Fact]
 public void CreateCommand_ReturnsCorrectResourceType_WhenValidObjectSubmitted()
